@@ -1,6 +1,6 @@
 # AR-Music
 https://ar--music.herokuapp.com/
 
-#Installation
+# Installation
 1) npm install
 2) node index.js
